@@ -8,6 +8,9 @@ The way the program work is the console input must have the following format:
     ./Sudoku -s [game .txt file]
 
 The .txt file must be in the correct format in order to work. The program will detect 
-and notify of any formatting or value errors of the inputted file. If unaware
-of the correct format the .txt file must be in, the user can create one using the
-program by simply not including any file in the console.
+and notify of any formatting or value errors of the inputted file. If unawareof the 
+correct format the .txt file must be in, the user can create one using theprogram by 
+simply not including any file in the console.
+
+I included my own game.txt file for use as well as two other files that are in the 
+incorrect format as examples of the error-checking capabilites.
